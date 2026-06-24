@@ -14,7 +14,7 @@
 
 ###
 
-<p data-importer="text" align="left">Data Science Student with a strong interest in Artificial Intelligence, Machine Learning, Data Analytics, and Big Data Technologies.<br> I enjoy transforming raw data into meaningful insights and building intelligent solutions that drive real-world impact.</p>
+<p data-importer="text" align="left">Data Science Student with a strong interest in Artificial Intelligence, Machine Learning, Data Analytics, and Big Data Technologies.<br> I enjoy transforming raw data into impactful solutions through advanced analytics, data mining, machine learning models, AI systems, and data-driven decision making.</p>
 
 ###
 
@@ -47,8 +47,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/pkashafzeb-cpu/pkashafzeb-cpu/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/pkashafzeb-cpu/pkashafzeb-cpu/languages-output/languages.svg?hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/pkashafzeb-cpu/pkashafzeb-cpu/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/pkashafzeb-cpu/pkashafzeb-cpu/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -56,14 +56,6 @@
 <br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/pkashafzeb-cpu/pkashafzeb-cpu/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pkashafzeb-cpu&show_icons=true&theme=dark)
-
-## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkashafzeb-cpu&layout=compact&theme=dark)
 
 ###
 
