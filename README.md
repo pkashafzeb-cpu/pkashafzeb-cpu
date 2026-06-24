@@ -55,8 +55,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/pkashafzeb-cpu/pkashafzeb-cpu/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div data-importer="socials" align="left">
